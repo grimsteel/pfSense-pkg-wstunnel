@@ -1,0 +1,7 @@
+pkg/wstunnel.xml
+pkg/wstunnel.inc
+www/shortcuts/pkg_wstunnel.inc
+/etc/inc/priv/wstunnel.priv.inc
+%%DATADIR%%/info.xml
+@dir /etc/inc/priv
+@dir /usr/local/www/shortcuts

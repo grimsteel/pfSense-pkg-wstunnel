@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<pfsensepkgs>
+  <package>
+    <name>wstunnel</name>
+    <pkginfolink>https://github.com/grimsteel/pfSense-pkg-wstunnel</pkginfolink>
+    <descr>wstunnel package for pfSense</descr>
+    <website>https://github.com/grimsteel/pfSense-pkg-wstunnel</website>
+    <version>%%PKGVERSION%%</version>
+    <configurationfile>wstunnel.xml</configurationfile>
+  </package>
+</pfsensepkgs>
